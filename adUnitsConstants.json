@@ -17,5 +17,12 @@
         "adUnitInterstitial": "ca-app-pub-6461570865242030/5889716036",
         "adUnitRew": "ca-app-pub-6461570865242030/6907284238",
         "appId": "ca-app-pub-6461570865242030~5450732339"
+    },
+    "humataGuide":
+    {
+        "adUnitBanner": "ca-app-pub-6461570865242030/2580046478",
+        "adUnitInterstitial": "ca-app-pub-6461570865242030/7508390783",
+        "adUnitRew": "ca-app-pub-6461570865242030/3377574080",
+        "appId": "ca-app-pub-6461570865242030~1650108185"
     }
   }
