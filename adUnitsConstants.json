@@ -32,5 +32,12 @@
         "adUnitInterstitial": "ca-app-pub-6461570865242030/1958945978",
         "adUnitRew": "ca-app-pub-6461570865242030/4505218261",
         "appId": "ca-app-pub-6461570865242030~5898190989"
+    },
+    "heyGen":
+    {
+        "adUnitBanner": "ca-app-pub-6461570865242030/4284660754",
+        "adUnitInterstitial": "ca-app-pub-6461570865242030/5824424393",
+        "adUnitRew": "",
+        "appId": "ca-app-pub-6461570865242030~3576415442"
     }
   }
