@@ -39,5 +39,12 @@
         "adUnitInterstitial": "ca-app-pub-6461570865242030/5824424393",
         "adUnitRew": "",
         "appId": "ca-app-pub-6461570865242030~3576415442"
+    },
+    "kittlGuide":
+    {
+        "adUnitBanner": "ca-app-pub-6461570865242030/7801551164",
+        "adUnitInterstitial": "ca-app-pub-6461570865242030~7558579402",
+        "adUnitRew": "",
+        "appId": "ca-app-pub-6461570865242030/2024015847"
     }
   }
