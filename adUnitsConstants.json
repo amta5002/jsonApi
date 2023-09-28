@@ -46,5 +46,11 @@
         "adUnitInterstitial": "ca-app-pub-6444200842559545/9857750741",
         "adUnitRew": "",
         "appId": "ca-app-pub-6461570865242030~7558579402"
+    },
+    "cpa":
+    {
+        "imageUrl" : "https://amta5002.github.io/jsonApi/cpa-showed.png",
+        "link" : "https://www.google.com/",
+        "show" : "true"
     }
   }
