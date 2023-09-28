@@ -51,6 +51,6 @@
     {
         "imageUrl" : "https://amta5002.github.io/jsonApi/cpa-showed.png",
         "link" : "https://www.google.com/",
-        "show" : "true"
+        "show" : "false"
     }
   }
