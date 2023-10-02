@@ -47,6 +47,13 @@
         "adUnitRew": "",
         "appId": "ca-app-pub-6461570865242030~7558579402"
     },
+    "flikiGuide":
+    {
+        "adUnitBanner": "ca-app-pub-5033672204527179/6174769991",
+        "adUnitInterstitial": "ca-app-pub-5033672204527179/354860665",
+        "adUnitRew": "",
+        "appId": "ca-app-pub-5033672204527179~2810240053"
+    }
     "cpa":
     {
         "imageUrl" : "https://amta5002.github.io/jsonApi/cpa-showed.png",
