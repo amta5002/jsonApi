@@ -54,10 +54,17 @@
         "adUnitRew": "",
         "appId": "ca-app-pub-5033672204527179~2810240053"
     },
+    "gammaGuide":
+    {
+        "adUnitBanner": "ca-app-pub-5033672204527179/4795251479",
+        "adUnitInterstitial": "ca-app-pub-5033672204527179/7149952076",
+        "adUnitRew": "",
+        "appId": "ca-app-pub-5033672204527179~2810240053"
+    },
     "cpa":
     {
         "imageUrl" : "https://amta5002.github.io/jsonApi/cpa-showed.png",
         "link" : "https://www.google.com/",
-        "show" : "false"
+        "show" : true
     }
   }
