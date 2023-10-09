@@ -24,7 +24,13 @@
         "adUnitBanner": "ca-app-pub-5033672204527179/2602857506",
         "adUnitInterstitial": "ca-app-pub-5033672204527179/2608357242",
         "adUnitRew": "ca-app-pub-6461570865242030/3377574080",
-        "appId": "ca-app-pub-6461570865242030~1650108185"
+        "appId": "ca-app-pub-6461570865242030~1650108185",
+        "cpa":
+            {
+                "imageUrl" : "https://amta5002.github.io/jsonApi/cpa-showed.png",
+                "link" : "https://www.google.com/",
+                "show" : true
+            }
     },
     "diamondFff":
     {
