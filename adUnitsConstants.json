@@ -61,6 +61,19 @@
         "adUnitRew": "",
         "appId": "ca-app-pub-5033672204527179~2810240053"
     },
+    "surveyLamaGuide":
+    {
+        "adUnitBanner": "ca-app-pub-5033672204527179/9876644614",
+        "adUnitInterstitial": "ca-app-pub-5033672204527179/1576301002",
+        "adUnitRew": "",
+        "appId": "",
+        "cpa":
+            {
+                "imageUrl" : "https://amta5002.github.io/jsonApi/cpa-showed.png",
+                "link" : "https://www.google.com/",
+                "show" : true
+            }
+    },
     "cpa":
     {
         "imageUrl" : "https://amta5002.github.io/jsonApi/cpa-showed.png",
