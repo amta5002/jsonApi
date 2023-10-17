@@ -80,6 +80,20 @@
                 "show" : false
             }
     },
+    "survimoGuide":
+    {
+        "adUnitBanner": "",
+        "adUnitInterstitial": "",
+        "adUnitRew": "",
+        "appId": "",
+        "cpa":
+            {
+                "imageUrl" : "https://amta5002.github.io/jsonApi/humataCpa.png",
+                "link" : "https://aihomata.blogspot.com/",
+                "show" : false,
+                "notShowOnSplash" : false
+            }
+    },
     "cpa":
     {
         "imageUrl" : "https://amta5002.github.io/jsonApi/humataCpa.png",
