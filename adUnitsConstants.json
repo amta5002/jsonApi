@@ -89,7 +89,8 @@
         "cpa":
             {
                 "imageUrl" : "https://amta5002.github.io/jsonApi/humataCpa.png",
-                "link" : "https://aihomata.blogspot.com/",
+                "link" : "https://google.com",
+                "redirectLink" : "https://www.google.com/intl/fr/gmail/about/",
                 "show" : false,
                 "notShowOnSplash" : false
             }
