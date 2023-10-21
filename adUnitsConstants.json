@@ -86,6 +86,7 @@
         "adUnitInterstitial": "",
         "adUnitRew": "",
         "appId": "",
+        "applovinBanner": "",
         "cpa":
             {
                 "imageUrl" : "https://amta5002.github.io/jsonApi/humataCpa.png",
