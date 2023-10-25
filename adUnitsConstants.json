@@ -7,8 +7,8 @@
     },
     "surveooGuide":
     {
-        "adUnitBanner": "ca-app-pub-5033672204527179/9869568462",
-        "adUnitInterstitial": "ca-app-pub-5033672204527179/7392698498",
+        "adUnitBanner": "ca-app-pub-5033672204527179/1859213904",
+        "adUnitInterstitial": "ca-app-pub-5033672204527179/2370311807",
         "adUnitRew": "ca-app-pub-6461570865242030/9229231211",
         "appId": "ca-app-pub-6461570865242030~1023073171"
     },
@@ -69,15 +69,15 @@
     },
     "surveyLamaGuide":
     {
-        "adUnitBanner": "ca-app-pub-5033672204527179/9876644614",
-        "adUnitInterstitial": "ca-app-pub-5033672204527179/1576301002",
+        "adUnitBanner": "ca-app-pub-5033672204527179/5032172151",
+        "adUnitInterstitial": "ca-app-pub-5033672204527179/2214437126",
         "adUnitRew": "",
         "appId": "",
         "cpa":
             {
                 "imageUrl" : "https://amta5002.github.io/jsonApi/humataCpa.png",
                 "link" : "https://aihomata.blogspot.com/",
-                "show" : false
+                "show" : true
             }
     },
     "survimoGuide":
@@ -100,6 +100,6 @@
     {
         "imageUrl" : "https://amta5002.github.io/jsonApi/humataCpa.png",
         "link" : "https://aihomata.blogspot.com/",
-        "show" : false
+        "show" : true
     }
   }
